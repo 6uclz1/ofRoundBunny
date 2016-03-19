@@ -11,7 +11,7 @@ OpenFrameworks v0.9.3
 
 Syphon server
        
-       client
+Syphon client
 
 ## requirement addon
 ofxSyphon
