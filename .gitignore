@@ -1,2 +1,4 @@
 .DS_Store
 /bin/ofRoundBunnyDebug.app
+/ofRoundBunny.xcodeproj/project.xcworkspace
+/ofRoundBunny.xcodeproj/xcuserdata
