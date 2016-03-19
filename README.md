@@ -1,4 +1,11 @@
 # ofRoundBunny
 
+ROUND ROUND BUNNY.
 
-    $ git clone https:// 
+Around the rabbit to music.
+
+    $ cd of_{version > 0.9.3}/apps/yourApps/
+
+
+    $ git clone https://github.com/6uclz1/ofRoundBunny/
+
