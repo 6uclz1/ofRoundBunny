@@ -11,6 +11,5 @@ Around the rabbit to music.
 
 
 
-![bunny-gif](https://www.dropbox.com/s/v9rjpilp4vfyf6v/round-bunny-720p.gif?dl=1)
 
 ![bunny](https://www.dropbox.com/s/0yif1v9b0cv4ujh/bunny.gif?dl=1)
