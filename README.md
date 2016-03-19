@@ -9,3 +9,5 @@ Around the rabbit to music.
 
     $ git clone https://github.com/6uclz1/ofRoundBunny/
 
+
+![bunny-gif](https://www.dropbox.com/s/v9rjpilp4vfyf6v/round-bunny-720p.gif)
