@@ -4,7 +4,7 @@ ROUND ROUND BUNNY.
 
 Around the rabbit to music.
 
-## addon
+## requirement addon
 ofxSyphon
 
 
