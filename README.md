@@ -4,6 +4,9 @@ ROUND ROUND BUNNY.
 
 Around the rabbit to music.
 
+### addon
+ofxSyphon
+
     $ cd of_{version > 0.9.3}/apps/yourApps/
 
 
