@@ -5,13 +5,10 @@ ROUND ROUND BUNNY.
 Around the rabbit to music.
 
 ## build
-OSX 10.11.3
-
-OpenFrameworks v0.9.3
-
-Syphon server
-       
-Syphon client
+*OSX 10.11.3
+*OpenFrameworks v0.9.3
+*Syphon server
+*Syphon client
 
 ## requirement addon
 ofxSyphon
