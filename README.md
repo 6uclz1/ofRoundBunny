@@ -7,8 +7,11 @@ Around the rabbit to music.
 ## addon
 ofxSyphon
 
-    $ cd of_{version > 0.9.3}/apps/yourApps/
 
+## download
+
+    $ cd of_{version > 0.9.3}/apps/yourApps/
+    
 
     $ git clone https://github.com/6uclz1/ofRoundBunny/
 
