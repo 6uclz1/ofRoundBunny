@@ -9,8 +9,9 @@ OSX 10.11.3
 
 OpenFrameworks v0.9.3
 
-Syphone server
-        client
+Syphon server
+       
+       client
 
 ## requirement addon
 ofxSyphon
