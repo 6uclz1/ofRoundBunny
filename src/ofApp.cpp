@@ -28,6 +28,7 @@ void ofApp::setup(){
     
     soundStream.setup(this, 0, 2, 44100, bufferSize, 4);
     
+    output.setName("bunny");
 }
 
 //--------------------------------------------------------------
@@ -76,6 +77,8 @@ void ofApp::draw(){
     mesh.drawWireframe();
     
     ofFill();
+    
+    output.publishScreen();
     
     cam.end();
     

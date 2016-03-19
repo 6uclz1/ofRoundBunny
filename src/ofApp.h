@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxSyphon.h"
 
 class ofApp : public ofBaseApp{
     
@@ -38,4 +39,7 @@ public:
     float scaledVol;
     
     ofSoundStream soundStream;
+    
+    ofxSyphonServer output;    
 };
+
