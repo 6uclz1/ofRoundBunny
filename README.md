@@ -6,7 +6,9 @@ Around the rabbit to music.
 
 ## build
 OSX 10.11.3
+
 OpenFrameworks v0.9.3
+
 Syphone server
         client
 
