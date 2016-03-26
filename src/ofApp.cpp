@@ -57,10 +57,7 @@ void ofApp::draw(){
     
     ofNoFill();
     
-    ofBackgroundGradient(ofColor(32), ofColor(0));
-    
-    ofSetColor(255, 255, 255);
-    
+    ofBackgroundGradient(ofColor(32+scaledVol*100*30), ofColor(0+scaledVol*100*30));
     
     float rotY = 0.5 * ofGetFrameNum() + scaledVol * 100 * 10; // ofRotate takes degrees
     
@@ -70,10 +67,10 @@ void ofApp::draw(){
     
     glPointSize(3);
     
-    ofSetColor(255, 255, 255);
+    ofSetColor(255 - scaledVol * 100 * 90, 255 - scaledVol * 100 * 90, 255 - scaledVol * 100 * 100);
     mesh.drawVertices();
     
-    ofSetColor(200, 200, 200);
+    ofSetColor(200 - scaledVol * 100 * 90, 200 - scaledVol * 100 * 90, 200 - scaledVol * 100 * 100);
     mesh.drawWireframe();
     
     ofFill();
