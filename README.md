@@ -15,7 +15,7 @@ Around the rabbit to music.
 * Sython
 * ofxSyphon
 
-## Installing
+## Installation
 
 
 
