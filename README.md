@@ -26,8 +26,7 @@ Around the rabbit to music.
 
 ## Result
 
-![bunny](https://www.dropbox.com/s/h7h508363sz6nwz/bunny.gif?dl=1)
-
+![bunny](https://media.giphy.com/media/3oKIPwX0WS21zC1f2g/giphy.gif)
 
 bunny by http://graphics.stanford.edu/data/3Dscanrep/
 
